@@ -1,0 +1,18 @@
+{
+"type_of_employment" : {
+        "goverment"      : 5,
+        "listed"         : 4,
+        "unlisted"       : 3,
+        "propertiorship" : 2,
+        "others"         : 1
+    },
+"type_of_residence" : {
+        "owned"    : 5,
+        "parental" : 4,
+        "alloted"  : 3,
+        "rented"   : 2,
+        "shared"   : 1,
+        "other"    : 1
+    }
+}
+

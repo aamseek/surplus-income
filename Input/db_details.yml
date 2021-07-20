@@ -1,0 +1,6 @@
+user_name: root
+password: Alas0aks!
+host: 127.0.0.1
+database: surplus_income
+Input_Path: C:\\Users\\user\\Documents\\Surplus_income_final_version\\Input\\dict_keys.json
+Output_Path: C:\\Users\\user\\Documents\\Surplus_income_final_version\\pickle\\
